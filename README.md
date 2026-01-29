@@ -1,4 +1,4 @@
-# 🏦 Mini Project 2 — Full-Stack Banking System (Python & OOP)
+# 🏦 Mini-Project2: Full-Stack Banking System (Python & OOP)
 
 ---
 
